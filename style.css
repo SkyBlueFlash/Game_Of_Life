@@ -1,0 +1,14 @@
+td {
+    width: 20px;
+    height: 20px;
+}
+
+#start {
+    margin-left: 137px;
+    margin-top: 5px;
+}
+
+#tip_label {
+    font-size: small;
+    margin-left: 50px;
+}
